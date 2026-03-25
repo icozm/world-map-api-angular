@@ -1,0 +1,14 @@
+path:hover {
+  fill: goldenrod;
+}
+#md:hover {
+  fill: red;
+}
+svg {
+  width: 80%;
+  float: left;
+}
+.info {
+  width: 20%;
+  float: right;
+}
